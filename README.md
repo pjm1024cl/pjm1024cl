@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pjm1024cl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pjm1024cl/pjm1024cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
