@@ -5,14 +5,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=pjm1024cl)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Study Tech
-* Amazon Web Service
-* Linux
-* Network
-* Go
-* Python
-* Json
-
-### Contact
-
-- Email : pjm1024cl@gmail.com
-- Instagram : [@p.jm_b](https://instagram.com/p.jm_b)
+| Cloud | Linux | Programing |
+|:-----:|:-------:|:----------:|
+|  Amazon Web Service  |  Amazon Linux 2  |   Python   |
+|  Google Cloud Platform  | Debian |     Go     |
